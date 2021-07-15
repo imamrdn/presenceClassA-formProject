@@ -2,6 +2,7 @@
 <head>
     <title>2000018045 - Imam Ramadhan</title>
     <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
     <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap" rel="stylesheet">
 </head>
@@ -46,7 +47,7 @@
     </div>
     
     <script>
-        // alert("Good morning, do attendance today :) Keep it up");
+        alert("Alooo, do attendance today :) Keep it up");
     </script>
 </body>
 </html>
